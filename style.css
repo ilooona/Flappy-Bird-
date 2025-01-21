@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 90dvh;  девочкин код*/
+    background-color: #255e75;
+    /* background: -webkit-linear-gradient(to right, #A7BFE8, #6190E8); 
+    background: linear-gradient(to right, #A7BFE8, #6190E8); */ 
+}
